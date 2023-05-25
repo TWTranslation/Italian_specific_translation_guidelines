@@ -27,3 +27,5 @@ Lista di termini inglesi che a volte vengono usati tali e quali in Italiano, e r
 - "data scientist" = _scienziato dei dati_ (da coniugare se al plurale)
 - "open source" = _open source_ (rimane tale e quale)
 - "contributors" = _collaboratori_ (e non _contributori_)
+- "contributors record highlights" = viene tradotto con _feedback dei collaboratori_ (capitolo del libro [qui](https://the-turing-way.netlify.app/afterword/contributors-record.html))
+- "community handbook" = _guida sulla comunita`_ (capitolo del libro [qui](https://the-turing-way.netlify.app/community-handbook/community-handbook.html))
