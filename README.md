@@ -20,5 +20,10 @@ TBC
 
 ## Glossario
 
-...
-TBC
+Lista di termini inglesi che a volte vengono usati tali e quali in Italiano, e relativa scelta di traduzione:
+
+- "The Turing Way" non viene tradotto, tuttavia quando e` usato come sostantivo tiene l'articolo determinativo, mentre quando viene usato come aggettivo lo perde. Esempio: "users are encouraged to use <0>The Turing Way</0> to understand" diventa _gli utenti sono incoraggiati ad utilizzare The Turing Way per capire_, me  "The Turing Way project" diventa _il progetto Turing Way_
+- "data science" = _scienza dei dati_
+- "data scientist" = _scienziato dei dati_ (da coniugare se al plurale)
+- "open source" = _open source_ (rimane tale e quale)
+- "contributors" = _collaboratori_ (e non _contributori_)
